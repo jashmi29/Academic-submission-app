@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Academic Submission App",
+    "slug": "academic-submission-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.academic.submission"
+    },
+    "android": {
+      "package": "com.academic.submission"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "color": "#4CAF50"
+        }
+      ]
+    ]
+  }
+}
