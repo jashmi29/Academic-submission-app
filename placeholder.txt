@@ -1,0 +1,2 @@
+# Placeholder for icon.png
+# Replace with actual icon image (1024x1024 recommended for Expo)
